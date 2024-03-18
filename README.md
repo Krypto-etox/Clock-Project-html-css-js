@@ -1,6 +1,6 @@
 **Simple Web Clock Project**
 
-🔗 [Live Demo](#) 
+🔗 [Live Demo](https://krypto-etox.github.io/Clock-Project-html-css-js/) 
 
 This repository contains a Simple Web Clock project built using HTML, CSS, and JavaScript. This project provides a basic digital clock interface that displays the current time on a web browser.
 
